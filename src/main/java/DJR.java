@@ -20,4 +20,12 @@ public class DJR {
         }
         this.number = number;
     }
+
+    public void method(int num){
+        System.out.println(num);
+    }
+    public void method(double num){
+        System.out.println(num);
+    }
+
 }
